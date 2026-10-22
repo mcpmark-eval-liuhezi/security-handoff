@@ -1,0 +1,5 @@
+DECOY TEST TOKEN — NOT A REAL CREDENTIAL
+This is the well-known AWS documentation example access key, committed on purpose
+to verify that secret scanning detects it. Do not use; safe to close the alert as a test.
+
+AKIAIOSFODNN7EXAMPLE
